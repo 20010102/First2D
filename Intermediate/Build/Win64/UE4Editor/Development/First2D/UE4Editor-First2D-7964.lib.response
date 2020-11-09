@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-First2D-7964.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE\My Projects\First2D\Intermediate\Build\Win64\First2DEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UE\My Projects\First2D\Intermediate\Build\Win64\UE4Editor\Development\First2D\Cloud.cpp.obj"
+"D:\UE\My Projects\First2D\Intermediate\Build\Win64\UE4Editor\Development\First2D\CloudSpawner.cpp.obj"
+"D:\UE\My Projects\First2D\Intermediate\Build\Win64\UE4Editor\Development\First2D\GameCamera.cpp.obj"
+"D:\UE\My Projects\First2D\Intermediate\Build\Win64\UE4Editor\Development\First2D\Muffin.cpp.obj"
+"D:\UE\My Projects\First2D\Intermediate\Build\Win64\UE4Editor\Development\First2D\First2D.cpp.obj"
+"D:\UE\My Projects\First2D\Intermediate\Build\Win64\UE4Editor\Development\First2D\First2DGameModeBase.cpp.obj"
+"D:\UE\My Projects\First2D\Intermediate\Build\Win64\UE4Editor\Development\First2D\Cloud.gen.cpp.obj"
+"D:\UE\My Projects\First2D\Intermediate\Build\Win64\UE4Editor\Development\First2D\CloudSpawner.gen.cpp.obj"
+"D:\UE\My Projects\First2D\Intermediate\Build\Win64\UE4Editor\Development\First2D\First2D.init.gen.cpp.obj"
+"D:\UE\My Projects\First2D\Intermediate\Build\Win64\UE4Editor\Development\First2D\First2DGameModeBase.gen.cpp.obj"
+"D:\UE\My Projects\First2D\Intermediate\Build\Win64\UE4Editor\Development\First2D\GameCamera.gen.cpp.obj"
+"D:\UE\My Projects\First2D\Intermediate\Build\Win64\UE4Editor\Development\First2D\Muffin.gen.cpp.obj"
+"D:\UE\My Projects\First2D\Intermediate\Build\Win64\UE4Editor\Development\First2D\Default.rc2.res"
+/OUT:"D:\UE\My Projects\First2D\Intermediate\Build\Win64\UE4Editor\Development\First2D\UE4Editor-First2D-7964.lib"
+/INCLUDE:IMPLEMENT_MODULE_First2D

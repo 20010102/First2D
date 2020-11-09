@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "First2D",
+			"Path": "D:\\UE\\My Projects\\First2D\\Source\\First2D.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "First2DEditor",
+			"Path": "D:\\UE\\My Projects\\First2D\\Source\\First2DEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

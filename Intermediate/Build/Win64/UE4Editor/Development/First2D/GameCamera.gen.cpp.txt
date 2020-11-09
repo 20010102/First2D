@@ -1,0 +1,5 @@
+D:\UE\My Projects\First2D\Intermediate\Build\Win64\UE4Editor\Development\First2D\Definitions.First2D.h
+D:\UE\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+D:\UE\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+D:\UE\My Projects\First2D\Source\First2D/Public/GameCamera.h
+D:\UE\My Projects\First2D\Intermediate\Build\Win64\UE4Editor\Inc\First2D\GameCamera.generated.h

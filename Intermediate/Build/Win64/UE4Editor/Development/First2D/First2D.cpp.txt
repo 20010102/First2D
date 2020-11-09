@@ -1,0 +1,2 @@
+D:\UE\My Projects\First2D\Intermediate\Build\Win64\UE4Editor\Development\First2D\Definitions.First2D.h
+D:\UE\My Projects\First2D\Source\First2D\First2D.h

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\UE\\My Projects\\First2D\\Source\\First2D\\First2D.Build.cs",
+		"D:\\UE\\My Projects\\First2D\\Source\\First2D.Target.cs",
+		"D:\\UE\\My Projects\\First2D\\Source\\First2DEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.3"
+}

@@ -1,0 +1,7 @@
+D:\UE\My Projects\First2D\Intermediate\Build\Win64\UE4Editor\Development\First2D\Definitions.First2D.h
+D:\UE\My Projects\First2D\Source\First2D\First2DGameModeBase.h
+D:\UE\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\UE\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\UE\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\UE\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\UE\My Projects\First2D\Intermediate\Build\Win64\UE4Editor\Inc\First2D\First2DGameModeBase.generated.h
